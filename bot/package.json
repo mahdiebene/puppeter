@@ -1,0 +1,14 @@
+{
+    "name": "basa-khuji-bot",
+    "version": "1.0.0",
+    "description": "Scraper bot for Basa Khuji",
+    "main": "scraper.js",
+    "scripts": {
+        "start": "node scraper.js"
+    },
+    "dependencies": {
+        "axios": "^1.6.0",
+        "dotenv": "^16.3.1",
+        "puppeteer": "^21.4.1"
+    }
+}
